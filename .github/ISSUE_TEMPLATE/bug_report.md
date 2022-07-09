@@ -21,9 +21,9 @@ assignees: LouisBarranqueiro
 
 
 ### Environment
- - **OS name and version** : 
- - **Browser name and version**:
- - **Reapop version**:
+ - **OS name and version (ex. Windows 11)**: 
+ - **Browser name (ex. Google Chrome)**:
+ - **Your Reapop version (ex. 4.0.5)**:
 
 ### Additional information
-- [ ] I can fix this bug <!-- Check this box if you can work on it and create a pull request -->
+- [ ] I can fix this bug. <!-- Check this box if you can work on fixing it and create a pull request -->
